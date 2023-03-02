@@ -1,10 +1,10 @@
 ﻿#!/bin/sh
 
 #请修改为自己的UUID
-export UUID=61e3ee1a-0cc2-4a6b-b6d1-76724ed23aee
+export UUID=5ae51e50-f240-4eb3-acd1-3210ee3cef80
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=gamingerox.com
+export ProxySite=gameloop.me
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
